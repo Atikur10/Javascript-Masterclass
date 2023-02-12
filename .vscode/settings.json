@@ -1,6 +1,6 @@
 {
-  "cSpell.words": [
-    "Afroz",
-    "Shohana"
-  ]
+  "cSpell.words": ["Afroz", "Shohana"],
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "prettier.insertPragma": false
 }
